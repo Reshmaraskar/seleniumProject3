@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.selenium.seleniumproject3.test1">
+        <methods>
+          <include name="chromebrowser"/>
+        </methods>
+      </class> <!-- com.selenium.seleniumproject3.test1 -->
+      <class name="com.selenium.seleniumproject3.test2">
+        <methods>
+          <include name="firefoxbrowser"/>
+        </methods>
+      </class> <!-- com.selenium.seleniumproject3.test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
