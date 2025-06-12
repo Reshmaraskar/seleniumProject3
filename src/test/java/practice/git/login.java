@@ -1,5 +1,5 @@
 package practice.git;
 
 public class login {
-String data ="RR";
+String data ="SR";
 }
