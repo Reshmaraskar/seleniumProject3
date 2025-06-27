@@ -2,10 +2,9 @@ package practice.git;
 
 public class login {
 
-String data ="Reshma ";
+String data ="ink ";
 public static void main(String[] args) {
-int i =10;
-  int j =12;
+
   
 }
 }
